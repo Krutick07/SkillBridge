@@ -30,7 +30,7 @@ SkillBridge is a full-stack MERN application that helps users bridge the gap bet
 
 ## 📁 Folder Structure
 
-skillbridge/
+skillbridge/                                                                                                                  
 ├── client/ # Next frontend                                                                                                   
 ├── Backend/ # Node.js backend with Express & MongoDB                                                                         
 ├── README.md                                                                                                                 
