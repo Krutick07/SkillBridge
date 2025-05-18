@@ -31,9 +31,9 @@ SkillBridge is a full-stack MERN application that helps users bridge the gap bet
 ## 📁 Folder Structure
 
 skillbridge/
-├── client/ # Next frontend
-├── Backend/ # Node.js backend with Express & MongoDB
-├── README.md
+├── client/ # Next frontend                                                                                                   
+├── Backend/ # Node.js backend with Express & MongoDB                                                                         
+├── README.md                                                                                                                 
 
 📸 Screenshots
 
@@ -41,4 +41,5 @@ skillbridge/
 ![Courses Page](https://github.com/user-attachments/assets/ff9aa4e5-05df-4c8c-86b4-7e6c7e23e768)
 ![Learning Path](https://github.com/user-attachments/assets/32b3ded7-68d3-49bf-bfc1-47de0dcb6e36)
 ![Resume Anylzer](https://github.com/user-attachments/assets/6d01e968-26c2-49ec-b71a-66d9fdc6b047)
+![Mock Interview](https://github.com/user-attachments/assets/65b30e49-781e-471f-843b-a85594cbfed6)
 
